@@ -1,8 +1,29 @@
 {
   "version": 2,
-  "dgSpecHash": "0eqHSMVlww4vDDnj2B8gUduVplrY0ADXccAmMfOIweEPS18MRv4XaSZ8Y4Kls7nBc9i+tn7Nabw7Bzh1azR+ig==",
+  "dgSpecHash": "5JGeTL5GLAshWZirB8EbGxrEKVlQMrrfBHMC32OdWApouBpdFo2KNS1tr4h8EwKMjCLoi11OZ74KEmR8bKzkbA==",
   "success": true,
   "projectFilePath": "D:\\Proyectos_Adrian\\C#\\WSP_API\\WSP.ABSTRACTION.DATAACCESS\\WSP.ABSTRACTION.DATAACCESS.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\OMEN\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "C:\\Users\\OMEN\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\OMEN\\.nuget\\packages\\microsoft.extensions.configuration.binder\\7.0.2\\microsoft.extensions.configuration.binder.7.0.2.nupkg.sha512",
+    "C:\\Users\\OMEN\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\OMEN\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\OMEN\\.nuget\\packages\\microsoft.extensions.diagnostics.healthchecks\\7.0.2\\microsoft.extensions.diagnostics.healthchecks.7.0.2.nupkg.sha512",
+    "C:\\Users\\OMEN\\.nuget\\packages\\microsoft.extensions.diagnostics.healthchecks.abstractions\\7.0.2\\microsoft.extensions.diagnostics.healthchecks.abstractions.7.0.2.nupkg.sha512",
+    "C:\\Users\\OMEN\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\7.0.0\\microsoft.extensions.fileproviders.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\OMEN\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\7.0.0\\microsoft.extensions.hosting.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\OMEN\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\OMEN\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\OMEN\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\OMEN\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\OMEN\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\OMEN\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\OMEN\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\OMEN\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\OMEN\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "C:\\Users\\OMEN\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\OMEN\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
