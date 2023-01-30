@@ -15,7 +15,7 @@ namespace WSP.ABSTRACTION.LOGGER
             _configuration!.GetSection(LogSectionName).Bind(_options);
             services.AddSingleton<ILoggerInfo, Logger>(sp =>
             {
-                return new Logger(_options.Path_Log_File, _options.Level, user);
+                return new Logger(_options.Path_Log_File, _options.Level, user, _options.FileSizeLimitBytes);
             });
             return services;
         }

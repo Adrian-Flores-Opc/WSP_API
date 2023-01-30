@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Api.App.WspAdministration/obj/Debug/net6.0
+/WSP.ABSTRACTION.DATAACCESS/obj/Debug/net6.0
+/WSP.ABSTRACTION.ENTITIES/obj
+/WSP.ABSTRACTION.LOGGER/obj
+/WSP.ABSTRACTION.SECRYPT/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+/WSP.ABSTRACTION.SECRYPT/obj
+/WSP.APPLICATION.BUSSINESS/obj
+/WSP.APPLICATION.CONNECTION.SERVICES/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+/WSP.APPLICATION.CONNECTION.SERVICES/obj
+/.vs/WSP_API/FileContentIndex
