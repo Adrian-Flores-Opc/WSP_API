@@ -12,3 +12,12 @@
 /WSP.APPLICATION.CONNECTION.SERVICES/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
 /WSP.APPLICATION.CONNECTION.SERVICES/obj
 /.vs/WSP_API/FileContentIndex
+/Api.App.WspAdministration/bin/Debug/net6.0
+/.vs/WSP_API/v17
+/Api.App.WspAdministration/obj
+/WSP.ABSTRACTION.DATAACCESS
+/WSP.ABSTRACTION.ENTITIES/bin/Debug/net6.0
+/WSP.ABSTRACTION.LOGGER/bin/Debug/net6.0
+/WSP.ABSTRACTION.SECRYPT/bin/Debug/net6.0
+/WSP.APPLICATION.BUSSINESS/bin/Debug/net6.0
+/WSP.APPLICATION.CONNECTION.SERVICES/bin/Debug/net6.0
