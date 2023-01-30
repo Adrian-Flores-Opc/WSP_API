@@ -992,24 +992,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\OMEN\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\T09351\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Proyectos_Adrian\\C#\\WSP_API\\WSP.APPLICATION.BUSSINESS\\WSP.APPLICATION.BUSSINESS.csproj",
+      "projectUniqueName": "D:\\PROYECTOS_ADRIAN\\WSP_API\\WSP.APPLICATION.BUSSINESS\\WSP.APPLICATION.BUSSINESS.csproj",
       "projectName": "WSP.APPLICATION.BUSSINESS",
-      "projectPath": "D:\\Proyectos_Adrian\\C#\\WSP_API\\WSP.APPLICATION.BUSSINESS\\WSP.APPLICATION.BUSSINESS.csproj",
-      "packagesPath": "C:\\Users\\OMEN\\.nuget\\packages\\",
-      "outputPath": "D:\\Proyectos_Adrian\\C#\\WSP_API\\WSP.APPLICATION.BUSSINESS\\obj\\",
+      "projectPath": "D:\\PROYECTOS_ADRIAN\\WSP_API\\WSP.APPLICATION.BUSSINESS\\WSP.APPLICATION.BUSSINESS.csproj",
+      "packagesPath": "C:\\Users\\T09351\\.nuget\\packages\\",
+      "outputPath": "D:\\PROYECTOS_ADRIAN\\WSP_API\\WSP.APPLICATION.BUSSINESS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\OMEN\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\T09351\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

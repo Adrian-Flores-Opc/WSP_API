@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Proyectos_Adrian\\C#\\WSP_API\\Api.App.WspAdministration\\Api.App.WspAdministration.csproj": {}
+    "D:\\PROYECTOS_ADRIAN\\WSP_API\\Api.App.WspAdministration\\Api.App.WspAdministration.csproj": {}
   },
   "projects": {
-    "D:\\Proyectos_Adrian\\C#\\WSP_API\\Api.App.WspAdministration\\Api.App.WspAdministration.csproj": {
+    "D:\\PROYECTOS_ADRIAN\\WSP_API\\Api.App.WspAdministration\\Api.App.WspAdministration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Proyectos_Adrian\\C#\\WSP_API\\Api.App.WspAdministration\\Api.App.WspAdministration.csproj",
+        "projectUniqueName": "D:\\PROYECTOS_ADRIAN\\WSP_API\\Api.App.WspAdministration\\Api.App.WspAdministration.csproj",
         "projectName": "Api.App.WspAdministration",
-        "projectPath": "D:\\Proyectos_Adrian\\C#\\WSP_API\\Api.App.WspAdministration\\Api.App.WspAdministration.csproj",
-        "packagesPath": "C:\\Users\\OMEN\\.nuget\\packages\\",
-        "outputPath": "D:\\Proyectos_Adrian\\C#\\WSP_API\\Api.App.WspAdministration\\obj\\",
+        "projectPath": "D:\\PROYECTOS_ADRIAN\\WSP_API\\Api.App.WspAdministration\\Api.App.WspAdministration.csproj",
+        "packagesPath": "C:\\Users\\T09351\\.nuget\\packages\\",
+        "outputPath": "D:\\PROYECTOS_ADRIAN\\WSP_API\\Api.App.WspAdministration\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\OMEN\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\T09351\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -32,20 +31,20 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Proyectos_Adrian\\C#\\WSP_API\\WSP.ABSTRACTION.DATAACCESS\\WSP.ABSTRACTION.DATAACCESS.csproj": {
-                "projectPath": "D:\\Proyectos_Adrian\\C#\\WSP_API\\WSP.ABSTRACTION.DATAACCESS\\WSP.ABSTRACTION.DATAACCESS.csproj"
+              "D:\\PROYECTOS_ADRIAN\\WSP_API\\WSP.ABSTRACTION.DATAACCESS\\WSP.ABSTRACTION.DATAACCESS.csproj": {
+                "projectPath": "D:\\PROYECTOS_ADRIAN\\WSP_API\\WSP.ABSTRACTION.DATAACCESS\\WSP.ABSTRACTION.DATAACCESS.csproj"
               },
-              "D:\\Proyectos_Adrian\\C#\\WSP_API\\WSP.ABSTRACTION.ENTITIES\\WSP.ABSTRACTION.ENTITIES.csproj": {
-                "projectPath": "D:\\Proyectos_Adrian\\C#\\WSP_API\\WSP.ABSTRACTION.ENTITIES\\WSP.ABSTRACTION.ENTITIES.csproj"
+              "D:\\PROYECTOS_ADRIAN\\WSP_API\\WSP.ABSTRACTION.ENTITIES\\WSP.ABSTRACTION.ENTITIES.csproj": {
+                "projectPath": "D:\\PROYECTOS_ADRIAN\\WSP_API\\WSP.ABSTRACTION.ENTITIES\\WSP.ABSTRACTION.ENTITIES.csproj"
               },
-              "D:\\Proyectos_Adrian\\C#\\WSP_API\\WSP.ABSTRACTION.LOGGER\\WSP.ABSTRACTION.LOGGER.csproj": {
-                "projectPath": "D:\\Proyectos_Adrian\\C#\\WSP_API\\WSP.ABSTRACTION.LOGGER\\WSP.ABSTRACTION.LOGGER.csproj"
+              "D:\\PROYECTOS_ADRIAN\\WSP_API\\WSP.ABSTRACTION.LOGGER\\WSP.ABSTRACTION.LOGGER.csproj": {
+                "projectPath": "D:\\PROYECTOS_ADRIAN\\WSP_API\\WSP.ABSTRACTION.LOGGER\\WSP.ABSTRACTION.LOGGER.csproj"
               },
-              "D:\\Proyectos_Adrian\\C#\\WSP_API\\WSP.APPLICATION.BUSSINESS\\WSP.APPLICATION.BUSSINESS.csproj": {
-                "projectPath": "D:\\Proyectos_Adrian\\C#\\WSP_API\\WSP.APPLICATION.BUSSINESS\\WSP.APPLICATION.BUSSINESS.csproj"
+              "D:\\PROYECTOS_ADRIAN\\WSP_API\\WSP.APPLICATION.BUSSINESS\\WSP.APPLICATION.BUSSINESS.csproj": {
+                "projectPath": "D:\\PROYECTOS_ADRIAN\\WSP_API\\WSP.APPLICATION.BUSSINESS\\WSP.APPLICATION.BUSSINESS.csproj"
               },
-              "D:\\Proyectos_Adrian\\C#\\WSP_API\\WSP.APPLICATION.CONNECTION.SERVICES\\WSP.APPLICATION.CONNECTION.SERVICES.csproj": {
-                "projectPath": "D:\\Proyectos_Adrian\\C#\\WSP_API\\WSP.APPLICATION.CONNECTION.SERVICES\\WSP.APPLICATION.CONNECTION.SERVICES.csproj"
+              "D:\\PROYECTOS_ADRIAN\\WSP_API\\WSP.APPLICATION.CONNECTION.SERVICES\\WSP.APPLICATION.CONNECTION.SERVICES.csproj": {
+                "projectPath": "D:\\PROYECTOS_ADRIAN\\WSP_API\\WSP.APPLICATION.CONNECTION.SERVICES\\WSP.APPLICATION.CONNECTION.SERVICES.csproj"
               }
             }
           }
@@ -120,21 +119,20 @@
         }
       }
     },
-    "D:\\Proyectos_Adrian\\C#\\WSP_API\\WSP.ABSTRACTION.DATAACCESS\\WSP.ABSTRACTION.DATAACCESS.csproj": {
+    "D:\\PROYECTOS_ADRIAN\\WSP_API\\WSP.ABSTRACTION.DATAACCESS\\WSP.ABSTRACTION.DATAACCESS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Proyectos_Adrian\\C#\\WSP_API\\WSP.ABSTRACTION.DATAACCESS\\WSP.ABSTRACTION.DATAACCESS.csproj",
+        "projectUniqueName": "D:\\PROYECTOS_ADRIAN\\WSP_API\\WSP.ABSTRACTION.DATAACCESS\\WSP.ABSTRACTION.DATAACCESS.csproj",
         "projectName": "WSP.ABSTRACTION.DATAACCESS",
-        "projectPath": "D:\\Proyectos_Adrian\\C#\\WSP_API\\WSP.ABSTRACTION.DATAACCESS\\WSP.ABSTRACTION.DATAACCESS.csproj",
-        "packagesPath": "C:\\Users\\OMEN\\.nuget\\packages\\",
-        "outputPath": "D:\\Proyectos_Adrian\\C#\\WSP_API\\WSP.ABSTRACTION.DATAACCESS\\obj\\",
+        "projectPath": "D:\\PROYECTOS_ADRIAN\\WSP_API\\WSP.ABSTRACTION.DATAACCESS\\WSP.ABSTRACTION.DATAACCESS.csproj",
+        "packagesPath": "C:\\Users\\T09351\\.nuget\\packages\\",
+        "outputPath": "D:\\PROYECTOS_ADRIAN\\WSP_API\\WSP.ABSTRACTION.DATAACCESS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\OMEN\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\T09351\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -147,7 +145,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\PROYECTOS_ADRIAN\\WSP_API\\WSP.ABSTRACTION.SECRYPT\\WSP.ABSTRACTION.SECRYPT.csproj": {
+                "projectPath": "D:\\PROYECTOS_ADRIAN\\WSP_API\\WSP.ABSTRACTION.SECRYPT\\WSP.ABSTRACTION.SECRYPT.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -183,6 +185,10 @@
             "System.Configuration.ConfigurationManager": {
               "target": "Package",
               "version": "[7.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
             }
           },
           "imports": [
@@ -205,21 +211,20 @@
         }
       }
     },
-    "D:\\Proyectos_Adrian\\C#\\WSP_API\\WSP.ABSTRACTION.ENTITIES\\WSP.ABSTRACTION.ENTITIES.csproj": {
+    "D:\\PROYECTOS_ADRIAN\\WSP_API\\WSP.ABSTRACTION.ENTITIES\\WSP.ABSTRACTION.ENTITIES.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Proyectos_Adrian\\C#\\WSP_API\\WSP.ABSTRACTION.ENTITIES\\WSP.ABSTRACTION.ENTITIES.csproj",
+        "projectUniqueName": "D:\\PROYECTOS_ADRIAN\\WSP_API\\WSP.ABSTRACTION.ENTITIES\\WSP.ABSTRACTION.ENTITIES.csproj",
         "projectName": "WSP.ABSTRACTION.ENTITIES",
-        "projectPath": "D:\\Proyectos_Adrian\\C#\\WSP_API\\WSP.ABSTRACTION.ENTITIES\\WSP.ABSTRACTION.ENTITIES.csproj",
-        "packagesPath": "C:\\Users\\OMEN\\.nuget\\packages\\",
-        "outputPath": "D:\\Proyectos_Adrian\\C#\\WSP_API\\WSP.ABSTRACTION.ENTITIES\\obj\\",
+        "projectPath": "D:\\PROYECTOS_ADRIAN\\WSP_API\\WSP.ABSTRACTION.ENTITIES\\WSP.ABSTRACTION.ENTITIES.csproj",
+        "packagesPath": "C:\\Users\\T09351\\.nuget\\packages\\",
+        "outputPath": "D:\\PROYECTOS_ADRIAN\\WSP_API\\WSP.ABSTRACTION.ENTITIES\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\OMEN\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\T09351\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -290,21 +295,20 @@
         }
       }
     },
-    "D:\\Proyectos_Adrian\\C#\\WSP_API\\WSP.ABSTRACTION.LOGGER\\WSP.ABSTRACTION.LOGGER.csproj": {
+    "D:\\PROYECTOS_ADRIAN\\WSP_API\\WSP.ABSTRACTION.LOGGER\\WSP.ABSTRACTION.LOGGER.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Proyectos_Adrian\\C#\\WSP_API\\WSP.ABSTRACTION.LOGGER\\WSP.ABSTRACTION.LOGGER.csproj",
+        "projectUniqueName": "D:\\PROYECTOS_ADRIAN\\WSP_API\\WSP.ABSTRACTION.LOGGER\\WSP.ABSTRACTION.LOGGER.csproj",
         "projectName": "WSP.ABSTRACTION.LOGGER",
-        "projectPath": "D:\\Proyectos_Adrian\\C#\\WSP_API\\WSP.ABSTRACTION.LOGGER\\WSP.ABSTRACTION.LOGGER.csproj",
-        "packagesPath": "C:\\Users\\OMEN\\.nuget\\packages\\",
-        "outputPath": "D:\\Proyectos_Adrian\\C#\\WSP_API\\WSP.ABSTRACTION.LOGGER\\obj\\",
+        "projectPath": "D:\\PROYECTOS_ADRIAN\\WSP_API\\WSP.ABSTRACTION.LOGGER\\WSP.ABSTRACTION.LOGGER.csproj",
+        "packagesPath": "C:\\Users\\T09351\\.nuget\\packages\\",
+        "outputPath": "D:\\PROYECTOS_ADRIAN\\WSP_API\\WSP.ABSTRACTION.LOGGER\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\OMEN\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\T09351\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -343,6 +347,10 @@
               "version": "[7.0.0, )"
             },
             "Microsoft.Extensions.Diagnostics.HealthChecks": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions": {
               "target": "Package",
               "version": "[7.0.2, )"
             },
@@ -387,21 +395,104 @@
         }
       }
     },
-    "D:\\Proyectos_Adrian\\C#\\WSP_API\\WSP.APPLICATION.BUSSINESS\\WSP.APPLICATION.BUSSINESS.csproj": {
+    "D:\\PROYECTOS_ADRIAN\\WSP_API\\WSP.ABSTRACTION.SECRYPT\\WSP.ABSTRACTION.SECRYPT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Proyectos_Adrian\\C#\\WSP_API\\WSP.APPLICATION.BUSSINESS\\WSP.APPLICATION.BUSSINESS.csproj",
-        "projectName": "WSP.APPLICATION.BUSSINESS",
-        "projectPath": "D:\\Proyectos_Adrian\\C#\\WSP_API\\WSP.APPLICATION.BUSSINESS\\WSP.APPLICATION.BUSSINESS.csproj",
-        "packagesPath": "C:\\Users\\OMEN\\.nuget\\packages\\",
-        "outputPath": "D:\\Proyectos_Adrian\\C#\\WSP_API\\WSP.APPLICATION.BUSSINESS\\obj\\",
+        "projectUniqueName": "D:\\PROYECTOS_ADRIAN\\WSP_API\\WSP.ABSTRACTION.SECRYPT\\WSP.ABSTRACTION.SECRYPT.csproj",
+        "projectName": "WSP.ABSTRACTION.SECRYPT",
+        "projectPath": "D:\\PROYECTOS_ADRIAN\\WSP_API\\WSP.ABSTRACTION.SECRYPT\\WSP.ABSTRACTION.SECRYPT.csproj",
+        "packagesPath": "C:\\Users\\T09351\\.nuget\\packages\\",
+        "outputPath": "D:\\PROYECTOS_ADRIAN\\WSP_API\\WSP.ABSTRACTION.SECRYPT\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\OMEN\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\T09351\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Diagnostics.HealthChecks": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\PROYECTOS_ADRIAN\\WSP_API\\WSP.APPLICATION.BUSSINESS\\WSP.APPLICATION.BUSSINESS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\PROYECTOS_ADRIAN\\WSP_API\\WSP.APPLICATION.BUSSINESS\\WSP.APPLICATION.BUSSINESS.csproj",
+        "projectName": "WSP.APPLICATION.BUSSINESS",
+        "projectPath": "D:\\PROYECTOS_ADRIAN\\WSP_API\\WSP.APPLICATION.BUSSINESS\\WSP.APPLICATION.BUSSINESS.csproj",
+        "packagesPath": "C:\\Users\\T09351\\.nuget\\packages\\",
+        "outputPath": "D:\\PROYECTOS_ADRIAN\\WSP_API\\WSP.APPLICATION.BUSSINESS\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\T09351\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -472,21 +563,20 @@
         }
       }
     },
-    "D:\\Proyectos_Adrian\\C#\\WSP_API\\WSP.APPLICATION.CONNECTION.SERVICES\\WSP.APPLICATION.CONNECTION.SERVICES.csproj": {
+    "D:\\PROYECTOS_ADRIAN\\WSP_API\\WSP.APPLICATION.CONNECTION.SERVICES\\WSP.APPLICATION.CONNECTION.SERVICES.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Proyectos_Adrian\\C#\\WSP_API\\WSP.APPLICATION.CONNECTION.SERVICES\\WSP.APPLICATION.CONNECTION.SERVICES.csproj",
+        "projectUniqueName": "D:\\PROYECTOS_ADRIAN\\WSP_API\\WSP.APPLICATION.CONNECTION.SERVICES\\WSP.APPLICATION.CONNECTION.SERVICES.csproj",
         "projectName": "WSP.APPLICATION.CONNECTION.SERVICES",
-        "projectPath": "D:\\Proyectos_Adrian\\C#\\WSP_API\\WSP.APPLICATION.CONNECTION.SERVICES\\WSP.APPLICATION.CONNECTION.SERVICES.csproj",
-        "packagesPath": "C:\\Users\\OMEN\\.nuget\\packages\\",
-        "outputPath": "D:\\Proyectos_Adrian\\C#\\WSP_API\\WSP.APPLICATION.CONNECTION.SERVICES\\obj\\",
+        "projectPath": "D:\\PROYECTOS_ADRIAN\\WSP_API\\WSP.APPLICATION.CONNECTION.SERVICES\\WSP.APPLICATION.CONNECTION.SERVICES.csproj",
+        "packagesPath": "C:\\Users\\T09351\\.nuget\\packages\\",
+        "outputPath": "D:\\PROYECTOS_ADRIAN\\WSP_API\\WSP.APPLICATION.CONNECTION.SERVICES\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\OMEN\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\T09351\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
