@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Api.App.WspAdministration.props" />
+</Project>

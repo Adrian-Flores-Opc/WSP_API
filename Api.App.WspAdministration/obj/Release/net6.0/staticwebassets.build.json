@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "MhwDG8BL3P+XSLvWOlD0yk198R0UCjGuX48/TzbejYw=",
+  "Source": "Api.App.WspAdministration",
+  "BasePath": "_content/Api.App.WspAdministration",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

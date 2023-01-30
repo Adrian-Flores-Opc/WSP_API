@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>4a16ae63-24de-48cb-86b1-19f16cd7aa70</UserSecretsId>
+    <DockerDefaultTargetOS>Windows</DockerDefaultTargetOS>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Versioning" Version="5.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="7.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Binder" Version="7.0.2" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="7.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Diagnostics.HealthChecks" Version="7.0.2" />
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.17.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="7.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WSP.ABSTRACTION.DATAACCESS\WSP.ABSTRACTION.DATAACCESS.csproj" />
+    <ProjectReference Include="..\WSP.ABSTRACTION.ENTITIES\WSP.ABSTRACTION.ENTITIES.csproj" />
+    <ProjectReference Include="..\WSP.ABSTRACTION.LOGGER\WSP.ABSTRACTION.LOGGER.csproj" />
+    <ProjectReference Include="..\WSP.APPLICATION.BUSSINESS\WSP.APPLICATION.BUSSINESS.csproj" />
+    <ProjectReference Include="..\WSP.APPLICATION.CONNECTION.SERVICES\WSP.APPLICATION.CONNECTION.SERVICES.csproj" />
+  </ItemGroup>
+
+</Project>

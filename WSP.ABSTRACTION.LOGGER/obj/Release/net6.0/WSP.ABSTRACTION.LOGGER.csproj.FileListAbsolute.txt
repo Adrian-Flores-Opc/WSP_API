@@ -1,0 +1,12 @@
+D:\Proyectos_Adrian\C#\WSP_API\WSP.ABSTRACTION.LOGGER\bin\Release\net6.0\WSP.ABSTRACTION.LOGGER.deps.json
+D:\Proyectos_Adrian\C#\WSP_API\WSP.ABSTRACTION.LOGGER\bin\Release\net6.0\WSP.ABSTRACTION.LOGGER.dll
+D:\Proyectos_Adrian\C#\WSP_API\WSP.ABSTRACTION.LOGGER\bin\Release\net6.0\WSP.ABSTRACTION.LOGGER.pdb
+D:\Proyectos_Adrian\C#\WSP_API\WSP.ABSTRACTION.LOGGER\obj\Release\net6.0\WSP.ABSTRACTION.LOGGER.csproj.AssemblyReference.cache
+D:\Proyectos_Adrian\C#\WSP_API\WSP.ABSTRACTION.LOGGER\obj\Release\net6.0\WSP.ABSTRACTION.LOGGER.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos_Adrian\C#\WSP_API\WSP.ABSTRACTION.LOGGER\obj\Release\net6.0\WSP.ABSTRACTION.LOGGER.AssemblyInfoInputs.cache
+D:\Proyectos_Adrian\C#\WSP_API\WSP.ABSTRACTION.LOGGER\obj\Release\net6.0\WSP.ABSTRACTION.LOGGER.AssemblyInfo.cs
+D:\Proyectos_Adrian\C#\WSP_API\WSP.ABSTRACTION.LOGGER\obj\Release\net6.0\WSP.ABSTRACTION.LOGGER.csproj.CoreCompileInputs.cache
+D:\Proyectos_Adrian\C#\WSP_API\WSP.ABSTRACTION.LOGGER\obj\Release\net6.0\WSP.ABSTRACTION.LOGGER.dll
+D:\Proyectos_Adrian\C#\WSP_API\WSP.ABSTRACTION.LOGGER\obj\Release\net6.0\refint\WSP.ABSTRACTION.LOGGER.dll
+D:\Proyectos_Adrian\C#\WSP_API\WSP.ABSTRACTION.LOGGER\obj\Release\net6.0\WSP.ABSTRACTION.LOGGER.pdb
+D:\Proyectos_Adrian\C#\WSP_API\WSP.ABSTRACTION.LOGGER\obj\Release\net6.0\ref\WSP.ABSTRACTION.LOGGER.dll
