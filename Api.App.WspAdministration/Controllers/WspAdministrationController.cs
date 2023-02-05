@@ -38,13 +38,13 @@ namespace Api.App.WspAdministration.Controllers
 
 
         [ApiExplorerSettings(GroupName = "v1")]
-        [HttpGet("webhooks")]
+        [HttpGet("webhook")]
         [ProducesResponseType(typeof(int), 200)]
-        public ActionResult webhooks([FromQuery(Name = "hub.node")] string hub_node, [FromQuery(Name = "hub.challenge")] int hub_challenge, [FromQuery(Name = "hub.verify_token")] string hub_verify)
+        public ActionResult webhooks([FromQuery(Name = "hub.mode")] string hub_mode, [FromQuery(Name = "hub.challenge")] string hub_challenge, [FromQuery(Name = "hub.verify_token")] string hub_verify)
         {
             try
             {
-                this._logger.Debug(string.Format("ENTRADA: {0}"));
+                this._logger.Debug(string.Format("ENTRADA: {0} , {1} , {2}", hub_mode, hub_challenge, hub_verify));
                 var _response = new GenericAnswer() { message = "procesing complete.", code = 200, state = true };
                 this._logger.Debug(string.Format("RESPONSE: {0}", JsonConvert.SerializeObject(_response)));
                 return Ok(_response);
